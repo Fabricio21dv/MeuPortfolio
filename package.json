@@ -11,6 +11,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.6",
+    "jQuery": "^1.7.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
@@ -44,8 +45,8 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.28.0",
+    "@types/jquery": "^3.5.32",
     "@types/styled-components": "^5.1.34",
-    "eslint": "^8.57.1",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.1",
     "eslint-plugin-react": "^7.37.5",
